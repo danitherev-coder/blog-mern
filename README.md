@@ -15,7 +15,7 @@ SECRETORPRIVATEKEY=for_jwt
 CLOUD_NAME=cloudinary_name
 API_KEY=cloudinary_api_key
 API_SECRET=cloudinary_api_Secret
-
+```
 
 ![6](https://github.com/danitherev-coder/blog-mern/assets/71199306/53a5005c-91c9-4b49-9ed3-39d976e91271)
 ![5](https://github.com/danitherev-coder/blog-mern/assets/71199306/83495b33-67d2-4be2-9fb5-6d2516b3dcbe)
